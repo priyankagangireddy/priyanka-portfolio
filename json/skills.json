@@ -1,0 +1,71 @@
+{
+  "skillsHeading":"MY KNOWLEDGE LEVEL IN SOFTWARE",
+  "skillItems" : [{
+      "skillName":"HTML/HTML5",
+      "skillIcon" : "<i class='fa fa-html5 icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"85"
+    },
+    {
+      "skillName":"CSS/CSS3",
+      "skillIcon" : "<i class='fa fa-css3 icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"80"
+    },
+    {
+      "skillName":"Bootstrap",
+      "skillImage" : "images/bootstraplogo.png",
+      "skillProgressValue":"80"
+    },
+    {
+      "skillName":"Javascript",
+      "skillImage" : "images/javascript-image.ico",
+      "skillProgressValue":"75"
+    },
+    {
+      "skillName":"jQuery",
+      "skillIcon" : "<i class='fa fa-code icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"70"
+    },
+    {
+      "skillName":"AngularJs",
+      "skillImage" : "images/angular-icon.svg",
+      "skillProgressValue":"75"
+    },
+    {
+      "skillName":"NodeJs",
+      "skillImage" : "images/nodejs.png",
+      "skillProgressValue":"70"
+    },
+    {
+      "skillName":"MongoDB",
+      "skillIcon": "<i class='fa fa-database icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"70"
+    },
+    {
+      "skillName":"FireBase",
+      "skillIcon": "<i class='fa fa-database icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"70"
+    },
+    {
+      "skillName":"SQL",
+      "skillIcon": "<i class='fa fa-table icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"75"
+    },
+    {
+      "skillName":"VisualForce",
+      "skillIcon": "<i class='fa fa-code icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"75"
+    },
+    {
+      "skillName":"APEX",
+      "skillIcon": "<i class='fa fa-cloud icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"75"
+    },
+    {
+      "skillName":"SOQL/SOSL",
+      "skillIcon": "<i class='fa fa-database icon-big' aria-hidden='true'></i>",
+      "skillProgressValue":"75"
+    }
+
+  ]
+
+}

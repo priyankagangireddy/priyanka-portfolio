@@ -1,0 +1,11 @@
+<div class="resume-card">
+    <div class="resume-card-image-container">
+        <img class="resume-company-images" ng-src="{{$ctrl.companyData.imageUrl}}" alt="" width="100%" height="100%">
+    </div>
+    <div class="resume-card-description-container ">
+        <h3 class="resume-company-title">{{$ctrl.companyData.clientName}}<span class="resume-company-state">,{{$ctrl.companyData.state}}</span> <span class="resume-project-year">{{$ctrl.companyData.startDate}}-{{$ctrl.companyData.endDate}}</span> </h3>
+
+        <h4 class="resume-project-role">{{$ctrl.companyData.role}}</h4>
+        <p class="resume-company-description">{{$ctrl.companyData.description}} </p>
+    </div>
+</div>

@@ -1,0 +1,64 @@
+{
+  "navItems": [
+    {
+      "name": "Home",
+      "color": "white",
+      "path": "home",
+      "icon": "<i class='fa fa-home icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Portfolio",
+      "color": "white",
+      "path": "portfolio",
+      "icon": "<i class='fa fa-suitcase icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Skills",
+      "color": "white",
+      "path": "skills",
+      "icon": "<i class='fa fa-book icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Achievements",
+      "color": "white",
+      "path": "achievements",
+      "icon": "<i class='fa fa-trophy icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Blog",
+      "color": "white",
+      "path": "blog",
+      "icon": "<i class='fa fa-comments-o icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Linkedin",
+      "color": "white",
+      "path": "linkedin",
+      "icon": "<i class='fa fa-linkedin icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Twitter",
+      "color": "white",
+      "path": "twitter",
+      "icon": "<i class='fa fa-twitter icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Instagram",
+      "color": "white",
+      "path": "instagram",
+      "icon": "<i class='fa fa-instagram icon-nav' aria-hidden='true'></i>"
+    },
+    {
+      "name": "Google+",
+      "color": "white",
+      "path": "google+",
+      "icon": "<i class='fa fa-google-plus-official icon-nav' aria-hidden='true'></i>"
+    }
+  ],
+  "brandItem": {
+    "name": "Priyanka Gangireddy",
+    "color": "white"
+  },
+  "navBgColor": "#ffff"
+
+}

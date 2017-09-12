@@ -1,0 +1,17 @@
+<div class="w3-sidebar w3-bar-block w3-collapse w3-card-2 w3-animate-left" style="width:200px;background-color: #009688" id="mySidebar" ng-style="{'display': $ctrl.isDisplaySidebar}">
+    <button class="w3-bar-item w3-button w3-large w3-hide-large" ng-click="$ctrl.sidebarClose()">Close &times;</button>
+    <a ng-repeat="navItem in $ctrl.navData.navItems" href  ng-click="$ctrl.goToLocation(navItem.path)" ng-style="{'color': navItem.color}" class="w3-bar-item w3-button">
+        <span ng-bind-html="$ctrl.getIcon(navItem.icon)"></span>{{navItem.name}}</a>
+</div>
+<div class="w3-main" style="margin-left:200px">
+    <div class="w3-teal">
+        <button class="w3-button w3-teal w3-xlarge w3-hide-large" ng-click="$ctrl.sidebarOpen()">&#9776;</button>
+            <div class="w3-container">
+            <h1 class="text-center"><span ng-bind-html="$ctrl.icon"></span>   <span >  {{$ctrl.pageTitle}}</span> </h1>
+        </div>
+    </div>
+
+    <div ng-transclude class="w3-container">
+
+    </div>
+</div>

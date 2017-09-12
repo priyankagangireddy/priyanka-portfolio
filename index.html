@@ -1,0 +1,54 @@
+<!doctype html>
+<html ng-app="portfolio">
+    <head>
+        <title>
+            Priyanka's portfolio
+        </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="css/footer.css">
+        <link rel="stylesheet" href="css/home.css">
+        <link rel="stylesheet" href="css/navbar.css">
+        <link rel="stylesheet" href="css/resume.css">
+        <link rel="stylesheet" href="css/skills.css">
+        <link rel="stylesheet" href="css/sidebar.css">
+    </head>
+    <body style="background-color: white">
+        <sidebar-component>
+            <div ng-view>
+
+            </div>
+
+            <footer-component></footer-component>
+        </sidebar-component>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+        <script id="dsq-count-scr" src="//priyanka-g.disqus.com/count.js" async></script>
+        <script src="app.js"></script>
+        <script src="routes.js"> </script>
+        <script  src="scripts/constants/commonConstants.js"></script>
+        <script src="scripts/services/navbarservice.js"> </script>
+        <script src="scripts/services/footerservice.js"></script>
+        <script src="scripts/services/resumeservice.js"></script>
+        <script src="scripts/services/skillsservice.js"></script>
+        <script src="scripts/services/homeService.js"></script>
+        <script src="scripts/services/achievementsservice.js"></script>
+        <script src="scripts/controllers/resumeController.js"></script>
+        <script src="scripts/controllers/skillController.js"></script>
+        <script src="scripts/controllers/homeController.js"></script>
+        <script src="scripts/controllers/achievementsController.js"></script>
+        <script src="scripts/controllers/blogController.js"></script>
+        <script src="scripts/components/navbarComponent/navbarComponent.js"></script>
+        <script src="scripts/components/footerComponent/footerComponent.js"></script>
+        <script src="scripts/components/resumeCardComponent/resumeCardComponent.js"></script>
+        <script src="scripts/components/sidebarComponent/sidebarComponent.js"></script>
+        <script src="scripts/components/skillCardComponent/skillCardComponent.js"></script>
+
+    </body>
+</html>

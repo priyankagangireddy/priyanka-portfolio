@@ -1,0 +1,22 @@
+{
+  "achieveHeading" : "These are my achievements",
+  "achievePageEducation":[{
+    "education":"Master of Science in Computer Science - USA"
+  },
+  {
+    "education" : "Bachelor of Technology in Computer Science and Engineering - India"
+  }],
+  "achievePageCertification" :[{
+      "certiName":"•	Salesforce.com Certified Platform Developer I",
+      "certiLiscenceNo":"16745817",
+      "certiImage":"images/SF_Dev.png",
+      "certiLink":"http://certification.salesforce.com/verification?&fullname=priyanka%20gangireddy"
+  },
+  {
+      "certiName":"•	Salesforce.com Certified Administrator ",
+      "certiLiscenceNo":"16663903",
+      "certiImage":"images/SF_Admin.png",
+      "certiLink":"http://certification.salesforce.com/verification?&fullname=priyanka%20gangireddy"
+  }
+  ]
+}

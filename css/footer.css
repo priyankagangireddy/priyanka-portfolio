@@ -1,0 +1,11 @@
+.footer{
+    width: 100%;
+    background-color:#009688;
+    display: inline-block;
+    opacity: 1.0;
+    color: white;
+    height: 50px;
+    font-size: large;
+    padding-top: 15px;
+}
+

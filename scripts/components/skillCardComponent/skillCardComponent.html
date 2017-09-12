@@ -1,0 +1,20 @@
+<div class=" col-sm-5 col-md-5 col-lg-5" style="margin: 20px">
+    <div class="thumbnail">
+        <div class="icon-thumbnail" >
+            <div ng-if="$ctrl.skillItem.skillIcon" ng-bind-html="$ctrl.getIcon($ctrl.skillItem.skillIcon)">
+
+            </div>
+            <div ng-if="$ctrl.skillItem.skillImage">
+                <img ng-src="{{$ctrl.skillItem.skillImage}}" alt="" height="100%" width="100%">
+            </div>
+        </div>
+        <div class="caption">
+            <h3>{{$ctrl.skillItem.skillName}}</h3>
+            <div class="progress">
+                <div class="progress-bar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" ng-style="{'width': $ctrl.skillItem.skillProgressValue+'%'}">
+                   {{$ctrl.skillItem.skillProgressValue}}%
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,69 @@
+{
+  "heading":"Portfolio",
+  "education": [{
+    "collegeName": "Fairleigh dickinson University",
+    "degree": "Master of Science in Computer Science",
+    "country": "USA",
+    "state": "New Jersey"
+  },{
+    "collegeName": "Jawaharlal Nehru Technological University",
+    "degree": "Bachelor of Technology in Computer Science and Engineering",
+    "country": "India",
+    "state": "Andhra Pradesh"
+  }],
+  "technicalSkills": [{
+    "name": "Web Technologies",
+    "technologies": ["HTML4/5", "XHTML", "XML", "CSS2/3", "JavaScript", "JQuery", "JSON", "AJAX", "Angular JS", "Bootstrap", "Twitter Bootstrap", "Node JS", "Jasmine", "Karma", "Express JS", "Mongo DB", "Firebase"]
+  },{
+    "name": "Database",
+    "technologies": ["MYSQL", "SQL SERVER"]
+  },{
+    "name": "IDE, Editors",
+    "technologies": ["Eclipse IDE", "Sublime", "Notepad++", "Webstorm"]
+  },{
+    "name": "Backend Languages",
+    "technologies": ["Java", "PHP"]
+  },{
+    "name": "Operating Systems",
+    "technologies": ["MAC", "Windows XP", "Win 7", "Windows 8", "Windows8.1"]
+  },{
+    "name": "Browsers",
+    "technologies": ["IE", "Firefox", "Opera", "Chrome", "Windows8.1"]
+  },{
+    "name": "Salesforce Technologies",
+    "technologies": ["APEX", "Visualforce", "Dataloader"]
+  }],
+  "professionalExperience": [{
+    "clientName": "United Services Automobile Association",
+    "state": "Texas",
+    "startDate": "12/01/2015",
+    "endDate": "Till date",
+    "role": "Salesforce Front End Web Developer",
+    "description": "The United Services Automobile Association (USAA) is a Texas-based Fortune 500 diversified financial services group of companies offering banking, investing, and insurance to people.",
+    "imageUrl": "images/usaa.png"
+  },{
+    "clientName": "Fairleigh Dickinson University",
+    "state": "New Jersey",
+    "startDate": "12/01/2014",
+    "endDate": "11/01/2015",
+    "role": "UI Developer",
+    "description": "The Fairleigh Dickinson University is the largest private university in New Jersey, and FDU is a not-for-profit, nonsectarian, multicampus institution.",
+    "imageUrl": "images/fairleigh-dickinson-seal.jpg"
+  },{
+    "clientName": "Just Dial",
+    "state": "India",
+    "startDate": "05/01/2013",
+    "endDate": "03/01/2014",
+    "role": "UI Developer",
+    "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
+    "imageUrl": "images/just-dail.jpg"
+  },{
+    "clientName": "NIIT Technologies Ltd",
+    "state": "India",
+    "startDate": "05/01/2012",
+    "endDate": "03/01/2013",
+    "role": "Jr. UI Developer",
+    "description": "NIIT Technologies is a global IT solutions organization addressing the requirements of clients across the Americas, Europe, Asia, and Australia. NIIT Technologies services clients in travel and transportation, banking and financial services, insurance, manufacturing, and media verticals, offering a range of services, including Application Development and Maintenance, Infrastructure Management, and Business Process Management. Focused on Digital Services, the Company is helping businesses design agile, scalable, and digital operating models.",
+    "imageUrl": "images/NIIT-Technologies.png"
+  }]
+}

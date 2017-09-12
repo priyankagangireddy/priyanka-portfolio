@@ -1,0 +1,69 @@
+.resume-card{
+    border: 1px solid orange;
+    box-shadow: 0px 5px 5px 0px #888888;
+    width: 100%;
+    display:block;
+    overflow:auto;
+    margin: 20px;
+    background-color: aliceblue;
+}
+
+.resume-card-image-container{
+    padding: 10px;
+}
+
+.resume-company-images{
+
+    background-color: navy;
+    padding: 20px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.resume-company-title{
+    margin: 20px;
+}
+
+.resume-project-year {
+    float: right;
+    font-family: "cursive";
+}
+
+.resume-project-role {
+    margin: 20px;
+    font-style: oblique;
+}
+
+.resume-company-description{
+    margin: 20px;
+    font-style: italic;
+}
+
+.resume-company-state{
+    font-size: medium;
+}
+.resume-heading {
+    text-align: center;
+}
+
+@media only screen  and (min-width : 1224px) {
+    .resume-card-image-container{
+        width: 20%;
+        float: left;
+    }
+    .resume-card-description-container{
+        width: 80%;
+        float: left;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .resume-card-image-container{
+        width: 20%;
+        float: left;
+    }
+    .resume-card-description-container{
+        width: 80%;
+        float: left;
+    }
+}

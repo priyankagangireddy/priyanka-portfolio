@@ -1,0 +1,23 @@
+.icon-thumbnail {
+    height: 100%;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.icon-big{
+    font-size: 100px;
+    color:#e54206;
+}
+
+.thumbnail {
+    background-color: #6ac2ce;
+    border: 1px solid #e54206;
+}
+
+.caption {
+    text-align: center;
+}
+
+.progress-bar {
+    background-color: orangered;
+}
