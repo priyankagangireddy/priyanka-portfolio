@@ -1,17 +1,16 @@
 <div class="container" style="width:100%; padding: 0px">
     <div class="jumbotron">
-        <h1 class="display-3">Achievements</h1>
-        <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+        <h3 class="display-3"></h3>
+        <p class="lead">{{vm.achievementsData.achieveHeading}}</p>
         <hr class="my-4">
-        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
         <div class="row">
-            <div ng-repeat = "achievePageEducation in vm.achievementsData.achievePageEducation">
-
+          <label>Education:</label>
+            <div>
+                <ul>
+                    <li  ng-repeat = "educationDetails in vm.achievementsData.educationDetails"> {{educationDetails.degreeName}}</li>
+                </ul>
             </div>
         </div>
-        <p class="lead">
-            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-        </p>
     </div>
 
 </div>
