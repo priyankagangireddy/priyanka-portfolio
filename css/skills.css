@@ -6,11 +6,11 @@
 
 .icon-big{
     font-size: 100px;
-    color:#e54206;
+    //color:#e54206;
 }
 
 .thumbnail {
-    background-color: #6ac2ce;
+    background-color: #ba9e59;
     border: 1px solid #e54206;
 }
 
@@ -19,5 +19,5 @@
 }
 
 .progress-bar {
-    background-color: orangered;
+    background-color: #59ba89;
 }
