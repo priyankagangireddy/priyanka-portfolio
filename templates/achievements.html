@@ -4,10 +4,21 @@
         <p class="lead">{{vm.achievementsData.achieveHeading}}</p>
         <hr class="my-4">
         <div class="row">
-          <label>Education:</label>
+          <label>{{vm.achievementsData.educationLabel}}</label>
             <div>
                 <ul>
                     <li  ng-repeat = "educationDetails in vm.achievementsData.educationDetails"> {{educationDetails.degreeName}}</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <label>{{vm.achievementsData.certificationLabel}}</label>
+            <div>
+                <ul>
+                    <li  ng-repeat = "myCertification in vm.achievementsData.myCertification">
+                        {{myCertification.certiName}} - {{myCertification.certiLiscenceNo}}
+
+                    </li>
                 </ul>
             </div>
         </div>
