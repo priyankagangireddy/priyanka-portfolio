@@ -1,5 +1,9 @@
 {
-  "achieveHeading" : "These are my achievements",
+
+  "educationLabel": "Education :",
+  "certificationLabel": "Certifications :",
+
+  "achieveHeading" : "My Education and Certifications",
   "educationDetails":[{
     "degreeName":"Master of Science in Computer Science ",
     "country":"USA",
