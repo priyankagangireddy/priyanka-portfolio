@@ -35,5 +35,10 @@ angular
             controller: 'achievementsController',
             controllerAs: 'vm'
         })
+        .when("/github", {
+            templateUrl : "templates/github.html",
+            controller: 'githubController',
+            controllerAs: 'vm'
+        })
 
 });

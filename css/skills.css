@@ -10,7 +10,7 @@
 }
 
 .thumbnail {
-    background-color: #ba9e59;
+  //  background-color: #ba9e59;
     border: 1px solid #e54206;
 }
 
@@ -19,5 +19,5 @@
 }
 
 .progress-bar {
-    background-color: #59ba89;
+     background-color: orangered;
 }

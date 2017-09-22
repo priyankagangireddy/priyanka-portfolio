@@ -49,10 +49,10 @@
       "icon": "<i class='fa fa-instagram icon-nav' aria-hidden='true'></i>"
     },
     {
-      "name": "Google+",
+      "name": "Github",
       "color": "white",
-      "path": "google+",
-      "icon": "<i class='fa fa-google-plus-official icon-nav' aria-hidden='true'></i>"
+      "path": "github",
+      "icon": "<i class='fa fa-github icon-nav' aria-hidden='true'></i>"
     }
   ],
   "brandItem": {
