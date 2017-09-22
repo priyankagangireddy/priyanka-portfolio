@@ -1,11 +1,12 @@
 
-<div class="container" style="padding:0px; height: 100%">
-    <div class="jumbotron">
-        <h1 class="display-3">{{vm.resumeData.heading}}</h1>
-        <p class="lead">My Real Time and Internship Experiences</p>
-        <hr class="my-4">
-        <div ng-repeat="company in vm.resumeData.professionalExperience">
-            <resume-card-component company-data="company"></resume-card-component>
+    <div class="container" style="padding:0px; height: 100%">
+        <div class="jumbotron">
+            <h1 class="display-3">{{vm.resumeData.heading}}</h1>
+            <p class="lead">My Real Time and Internship Experiences</p>
+            <hr class="my-4">
+            <div ng-repeat="company in vm.resumeData.professionalExperience">
+                <resume-card-component company-data="company"></resume-card-component>
+            </div>
         </div>
     </div>
 

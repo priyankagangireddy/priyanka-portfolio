@@ -6,11 +6,11 @@
 
 .icon-big{
     font-size: 100px;
-    color:#e54206;
+    //color:#e54206;
 }
 
 .thumbnail {
-    //background-color: #ba9e59;
+    background-color: #ba9e59;
     border: 1px solid #e54206;
 }
 

@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
   "educationLabel": "Education :",
   "certificationLabel": "Certifications :",
+=======
+
+  "educationLabel": "Education :",
+  "certificationLabel": "Certifications :",
+
+>>>>>>> master
   "achieveHeading" : "My Education and Certifications",
   "educationDetails":[{
     "degreeName":"Master of Science in Computer Science ",
