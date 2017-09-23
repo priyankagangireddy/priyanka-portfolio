@@ -40,5 +40,15 @@ angular
             controller: 'githubController',
             controllerAs: 'vm'
         })
+        .when("/linkedin", {
+            templateUrl : "templates/linkedin.html",
+            controller: 'linkedinController',
+            controllerAs: 'vm'
+        })
+        .when("/instagram", {
+            templateUrl : "templates/instagram.html",
+            controller: 'instagramController',
+            controllerAs: 'vm'
+        })
 
 });

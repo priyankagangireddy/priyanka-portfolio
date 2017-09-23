@@ -24,6 +24,18 @@ angular
             pageTitle: 'My Achievements',
             pageIcon: "<i class='fa fa-trophy icon-page' aria-hidden='true'></i>"
         },
+        githubConstants: {
+            pageTitle: 'My Github details',
+            pageIcon: "<i class='fa fa-github icon-page' aria-hidden='true'></i>"
+        },
+        linkedinConstants: {
+            pageTitle: 'linkedin',
+            pageIcon: "<i class='fa fa-linkedin icon-page' aria-hidden='true'></i>"
+        },
+        instagramConstants: {
+            pageTitle: 'My Instagram Media',
+            pageIcon: "<i class='fa fa-instagram icon-page' aria-hidden='true'></i>"
+        },
         events:{
             pageTitleEvent: 'pageTitleEvent'
         }

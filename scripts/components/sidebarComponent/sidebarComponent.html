@@ -1,4 +1,4 @@
-<div class="w3-sidebar w3-bar-block w3-collapse w3-card-2 w3-animate-left" style="width:200px;background-color: #009688" id="mySidebar" ng-style="{'display': $ctrl.isDisplaySidebar}">
+<div class="w3-sidebar w3-bar-block w3-collapse w3-card-2 w3-animate-left" style="width:200px;background-color: #232525" id="mySidebar" ng-style="{'display': $ctrl.isDisplaySidebar}">
     <button class="w3-bar-item w3-button w3-large w3-hide-large" ng-click="$ctrl.sidebarClose()">Close &times;</button>
     <a ng-repeat="navItem in $ctrl.navData.navItems" href  ng-click="$ctrl.goToLocation(navItem.path)" ng-style="{'color': navItem.color}" class="w3-bar-item w3-button">
         <span ng-bind-html="$ctrl.getIcon(navItem.icon)"></span>{{navItem.name}}</a>
