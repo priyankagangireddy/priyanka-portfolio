@@ -1,7 +1,7 @@
 {
   "heading":"Portfolio",
   "education": [{
-    "collegeName": "Fairleigh dickinson University",
+    "collegeName": "Fairleigh Dickinson University",
     "degree": "Master of Science in Computer Science",
     "country": "USA",
     "state": "New Jersey"
@@ -58,12 +58,12 @@
     "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
     "imageUrl": "images/just-dail.jpg"
   },{
-    "clientName": "NIIT Technologies Ltd",
+    "clientName": "Just Dial",
     "state": "India",
     "startDate": "05/01/2012",
     "endDate": "03/01/2013",
-    "role": "Jr. UI Developer",
-    "description": "NIIT Technologies is a global IT solutions organization addressing the requirements of clients across the Americas, Europe, Asia, and Australia. NIIT Technologies services clients in travel and transportation, banking and financial services, insurance, manufacturing, and media verticals, offering a range of services, including Application Development and Maintenance, Infrastructure Management, and Business Process Management. Focused on Digital Services, the Company is helping businesses design agile, scalable, and digital operating models.",
-    "imageUrl": "images/NIIT-Technologies.png"
+    "role": "Java UI Developer",
+    "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
+    "imageUrl": "images/just-dail.jpg"
   }]
 }
