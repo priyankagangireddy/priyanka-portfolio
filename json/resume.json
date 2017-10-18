@@ -36,7 +36,7 @@
   "professionalExperience": [{
     "clientName": "United Services Automobile Association",
     "state": "Texas",
-    "startDate": "Dec'2015",
+    "startDate": "Dec'15",
     "endDate": "Till date",
     "role": "UI Developer",
     "description": "The United Services Automobile Association (USAA) is a Texas-based Fortune 500 diversified financial services group of companies offering banking, investing, and insurance to people.",
@@ -56,6 +56,6 @@
     "endDate": "Apr'14",
     "role": "UI Developer",
     "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
-    "imageUrl": "images/just-dail.jpg"
+    "imageUrl": "images/images.jpg"
   }]
 }
