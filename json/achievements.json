@@ -2,11 +2,11 @@
 
   "educationLabel": "Education :",
   "certificationLabel": "Certifications :",
-  "achieveHeading" : "My Education and Certifications",
+  "achieveHeading" : "My Education",
   "educationDetails":[{
     "degreeName":"Master of Science in Computer Science ",
     "country":"USA",
-    "college":"Faileigh Dickinson University"
+    "college":"Fairleigh Dickinson University"
   },
   {
     "degreeName" : "Bachelor of Technology in Computer Science and Engineering",

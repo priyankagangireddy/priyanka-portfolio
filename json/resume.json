@@ -36,33 +36,25 @@
   "professionalExperience": [{
     "clientName": "United Services Automobile Association",
     "state": "Texas",
-    "startDate": "12/01/2015",
+    "startDate": "Dec'2015",
     "endDate": "Till date",
-    "role": "Salesforce Front End Web Developer",
+    "role": "UI Developer",
     "description": "The United Services Automobile Association (USAA) is a Texas-based Fortune 500 diversified financial services group of companies offering banking, investing, and insurance to people.",
     "imageUrl": "images/usaa.png"
   },{
     "clientName": "Fairleigh Dickinson University",
     "state": "New Jersey",
-    "startDate": "12/01/2014",
-    "endDate": "11/01/2015",
+    "startDate": "Mar'15",
+    "endDate": "Sep'15",
     "role": "UI Developer",
     "description": "The Fairleigh Dickinson University is the largest private university in New Jersey, and FDU is a not-for-profit, nonsectarian, multicampus institution.",
     "imageUrl": "images/fairleigh-dickinson-seal.jpg"
   },{
     "clientName": "Just Dial",
     "state": "India",
-    "startDate": "05/01/2013",
-    "endDate": "03/01/2014",
+    "startDate": "Dec'13",
+    "endDate": "Apr'14",
     "role": "UI Developer",
-    "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
-    "imageUrl": "images/just-dail.jpg"
-  },{
-    "clientName": "Just Dial",
-    "state": "India",
-    "startDate": "06/01/2012",
-    "endDate": "03/01/2013",
-    "role": "Java UI Developer",
     "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
     "imageUrl": "images/just-dail.jpg"
   }]
