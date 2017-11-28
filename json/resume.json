@@ -1,11 +1,6 @@
 {
   "heading":"Portfolio",
   "education": [{
-    "collegeName": "Fairleigh Dickinson University",
-    "degree": "Master of Science in Computer Science",
-    "country": "USA",
-    "state": "New Jersey"
-  },{
     "collegeName": "Jawaharlal Nehru Technological University",
     "degree": "Bachelor of Technology in Computer Science and Engineering",
     "country": "India",
@@ -38,24 +33,8 @@
     "state": "Texas",
     "startDate": "Dec'15",
     "endDate": "Till date",
-    "role": "UI Developer",
+    "role": "Salesforce Developer",
     "description": "The United Services Automobile Association (USAA) is a Texas-based Fortune 500 diversified financial services group of companies offering banking, investing, and insurance to people.",
     "imageUrl": "images/usaa.png"
-  },{
-    "clientName": "Fairleigh Dickinson University",
-    "state": "New Jersey",
-    "startDate": "Mar'15",
-    "endDate": "Sep'15",
-    "role": "UI Developer",
-    "description": "The Fairleigh Dickinson University is the largest private university in New Jersey, and FDU is a not-for-profit, nonsectarian, multicampus institution.",
-    "imageUrl": "images/fairleigh-dickinson-seal.jpg"
-  },{
-    "clientName": "Just Dial",
-    "state": "India",
-    "startDate": "Dec'13",
-    "endDate": "Apr'14",
-    "role": "UI Developer",
-    "description": "Justdial's search service bridges the gap between the users and businesses by helping users find relevant providers of products and services quickly, while helping businesses listed in Justdial's database to market their offerings.",
-    "imageUrl": "images/images.jpg"
   }]
 }
